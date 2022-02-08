@@ -1,2 +1,2 @@
 # ao-conva1
-programa para volver las imagenes convertidas a pow2
+programa para volver las imagenes a su estado anterior
